@@ -1,4 +1,4 @@
-# :satellite: ProxyScapper
+# :satellite: ProxyScrapper
 Fast HTTP, HTTPS, SOCKS4, SOCKS5 proxies grabber written on C#
 
 ## :test_tube: Usage
